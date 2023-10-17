@@ -4,16 +4,16 @@ Boas práticas são sempre bem vindas em qualquer esfera, e não seria diferente
 Para ajudar nesse exercício, incluo aqui alguns materiais de apoio:
 
 ### HTML
-[HTML5](https://html.spec.whatwg.org/multipage/)
-[SEO](https://dev.to/beatrizmaciel/guia-seo-para-desenvolvedores-2022-1log )
+- [HTML5](https://html.spec.whatwg.org/multipage/)
+- [SEO](https://dev.to/beatrizmaciel/guia-seo-para-desenvolvedores-2022-1log )
 
 ### CSS
-[BEM](https://getbem.com/introduction/)
-[BEM](https://css-tricks.com/bem-101/)
+- [BEM](https://getbem.com/introduction/)
+- [BEM](https://css-tricks.com/bem-101/)
 
 ### JAVASCRIPT
-[Documentação oficial](https://javascript.info/)
+- [Documentação oficial](https://javascript.info/)
 
 ### GIT
-[Documentação oficial](https://git-scm.com/docs)
-[GitFlow](https://www.alura.com.br/artigos/git-flow-o-que-e-como-quando-utilizar )
+- [Documentação oficial](https://git-scm.com/docs)
+- [GitFlow](https://www.alura.com.br/artigos/git-flow-o-que-e-como-quando-utilizar )
