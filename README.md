@@ -17,3 +17,7 @@ Para ajudar nesse exercício, incluo aqui alguns materiais de apoio:
 ### GIT
 - [Documentação oficial](https://git-scm.com/docs)
 - [GitFlow](https://www.alura.com.br/artigos/git-flow-o-que-e-como-quando-utilizar )
+
+### Extras
+
+[Download do projeto (.zip)](https://drive.google.com/file/d/1eAxyvfWFAkZKxyODw66gr8Sd_gDByrnM/view?usp=share_link)
